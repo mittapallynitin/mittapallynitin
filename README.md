@@ -18,6 +18,6 @@
 
 ## Machine Learning & Data Science:
 
-NLP, Deep Learning, Time-Series Analysis, Regression Models
+NLP, Deep Learning, Pytorch, Transformers, HuggingFace🤗 Time-Series Analysis, Regression Models
 Spacy, Scikit-learn, TensorFlow, Keras, NLTK
 Airflow, Databricks, Kafka, Hadoop
