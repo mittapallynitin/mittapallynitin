@@ -7,6 +7,7 @@
 - 😄 Pronouns: He/Him
 
 # 👨‍💻 Skills & Technologies:
+Machine Learning • Deep learning • A/B Testing • Natural Language Processing • Linear Regression • Classification • Clustering • Data wrangling • feature extraction • Data Visualization • Statistics • Databricks • AWS • Google Cloud • LangChain • LLM Fine tuning • Generative AI • Prompt Engineering • SaaS • Mathematics • Scikit-learn • Pandas • Numpy • Scipy • PyTorch • TensorFlow
 
 ## Programming Languages:
  - 🌟 Python
