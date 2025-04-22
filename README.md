@@ -23,32 +23,9 @@ I build intelligent systems that understand and generate language. Passionate ab
 ## 🚀 Cool Stuff I've Built
 
 ### Attention is All You Need - Implementation
-Built the Transformer architecture from scratch in PyTorch. Because nothing helps you understand something like implementing it yourself!
-```python
-# Multi-head attention implementation snippet
-class MultiHeadAttention(nn.Module):
-    def __init__(self, d_model, num_heads):
-        super().__init__()
-        self.d_model = d_model
-        self.num_heads = num_heads
-        # More code...
-```
-
 ### TinyGPT - Lightweight Transformer
-A super-efficient transformer model with only 21K parameters. Proves you don't always need billions of parameters to do cool stuff!
-
 ### DocuAnswer - RAG System
-Ask questions about your PDFs and get intelligent answers. It uses FAISS for vector search and LLMs to generate responses.
-
 ### CodeGPT - Causal Language Model
-A model that writes Python code based on what it's learned from CodeSearchNet. LoRA finetuned GPT model
-
-## 🔭 Current Explorations
-
-- Playing with advanced RAG techniques using hybrid retrievers
-- Experimenting with structured outputs from LLMs
-- Building multi-agent systems that collaborate to solve complex tasks
-- Fine-tuning models on domain-specific data
 
 ## 🛠️ My Tech Stack
 
@@ -65,16 +42,8 @@ MLOps: Docker, Kubernetes
 Currently diving deeper into:
 - RLHF and constitutional AI techniques
 - Multi-modal models (text + vision)
-- More efficient fine-tuning methods
+- Experimenting with structured outputs from LLMs
 - Agent frameworks and reasoning techniques
-
-## 💬 Let's Chat About
-
-- The latest in LLM research
-- Building production-ready AI systems
-- Natural language processing challenges
-- Your interesting ML/AI projects
-- How AI can solve real-world problems
 
 
 Feel free to reach out if you want to collaborate on something cool or just chat about the future of AI!
