@@ -5,8 +5,8 @@
 I build intelligent systems that understand and generate language. Passionate about transformer architectures, retrieval-augmented generation, and pushing the boundaries of what's possible with LLMs.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitinmittapally/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?logo=firefox-browser&logoColor=white&style=for-the-badge)](https://nitinmittapally.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mittapally.nitin@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-e8ffef?logo=firefox-browser&logoColor=7500ab&style=for-the-badge)](https://nitinmittapally.com)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mittapally.nitin@gmail.com)
 </div>
 
 ```
