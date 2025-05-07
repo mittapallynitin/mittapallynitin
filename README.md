@@ -22,11 +22,11 @@ I build intelligent systems that understand and generate language. Passionate ab
 
 ## 🚀 Cool Stuff I've Built
 
-### Attention is All You Need - Paper Replication
-### InstructAI - OpenAI's paper on Instruction Tuning (IT) - SFT 
-### TinyGPT - Lightweight Transformer based Language Model 
-### CodeGPT - LoRA based PEFT tuned model for Python Code Generation
-### DocuAnswer - RAG System
+- **Attention is All You Need** - Paper Replication
+- **InstructAI** - OpenAI's paper InstructGPT for Instruction Tuning (IT) - SFT 
+- **TinyGPT** - Lightweight Transformer based Language Model 
+- **CodeGPT** - PEFT (LoRA) tuned model for Python Code Generation
+- **DocuAnswer** - RAG System
 
 ## 🛠️ My Tech Stack
 
